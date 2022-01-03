@@ -1,7 +1,8 @@
-Una ayudita
-=======================
+# Nota:
 
-...
+Este en mi app de node
+
+```
 
 Opciones:
       --help     Muestra ayuda                                          [booleano]
@@ -10,4 +11,4 @@ Opciones:
   -l, --listar   Determina si se muestra o no la tabla de multiplicar   [booleano] [requerido] [defecto: false]
   -h, --hasta    Determina hasta qué número multiplicar                 [número] [requerido] [defecto: 12]
 
-...
+```
